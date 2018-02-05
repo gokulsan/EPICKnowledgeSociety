@@ -1,2 +1,4 @@
-# InfinityLabs
-Public Domain Knowledge Repository of UST Global Infinity Labs
+# Context
+Public Domain Knowledge Repository of EPIC Knowledge Society
+# Contributors
+EPIC Scholars and EPIC Explorers.
